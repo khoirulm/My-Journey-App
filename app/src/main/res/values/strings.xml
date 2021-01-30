@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Journey</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="slogan_getstarted">Discover \nThe Beauty \nOf Earth</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_account">NEW ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Nama</string>
+    <string name="bio">Bio</string>
+    <string name="image_succes">Image Succes</string>
+    <string name="btn_continue">CONTINUE</string>
+    <string name="btn_view_ticket">View Ticket</string>
+    <string name="title_create_account">Create New Account</string>
+    <string name="title_selfie_time">Selfie Time</string>
+    <string name="title_success_register">Kamu Hebat</string>
+    <string name="success_register_desc">Selamat datang pada My Journey \ndan nikmati wisatamu</string>
+    <string name="selfie_time_desc">Let the world knows yourself \nmore better and ever</string>
+    <string name="create_account_desc">Please fill up the forms below \nfor informations</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="menu">Main Menus</string>
+    <string name="des_menu">the beauty of world</string>
+    <string name="buy_ticket">Buy Ticket</string>
+    <string name="pricing">Pricing</string>
+    <string name="pay_now">PAY NOW</string>
+</resources>

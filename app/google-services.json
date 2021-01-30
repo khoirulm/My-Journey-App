@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871850376141",
+    "firebase_url": "https://my-journey-9e07d.firebaseio.com",
+    "project_id": "my-journey-9e07d",
+    "storage_bucket": "my-journey-9e07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871850376141:android:20d7bd8002ea2e3188a284",
+        "android_client_info": {
+          "package_name": "com.kmproject.myjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871850376141-evr69bepntekpci6lkb0vfmn9hml28vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAej5aPri7PYIOT-0k_u9u1uoSfbZQfuYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871850376141-evr69bepntekpci6lkb0vfmn9hml28vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
